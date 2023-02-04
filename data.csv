@@ -1,0 +1,270 @@
+id,lat,lon,address,city,departament,country
+1,4.578096,-74.216416,Cl. 13 #2a-35,Soacha,Cundinamarca,Colombia
+2,4.578042,-74.216516,Cl. 13 #2a-37,Soacha,Cundinamarca,Colombia
+3,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+4,8.550877,-72.934497,H328+96,El Tarra,Norte de Santander,Colombia
+5,5.813176,-73.029385,Cra. 31B #1679,Duitama,Boyacá,Colombia
+6,4.788328,-74.042309,Autopista Nte. #209-51,Usaquén,Bogotá,Colombia
+7,5.57179,-73.33412,Carrera 2 E No 75-84,Tunja,Boyacá,Colombia
+8,4.622524,-74.106378,Cl. 6 #45-51,Bogotá,Bogotá,Colombia
+9,5.826157,-73.038982,Cl. 9a #14-12,Duitama,Boyacá,Colombia
+10,5.537299,-73.358916,Cl. 25 #8-54,Tunja,Boyacá,Colombia
+11,5.543004,-73.357278,Dg 30A #929,Tunja,Boyacá,Colombia
+12,5.530072,-73.368873,Cra. 15 #16-2 a 16-40,Tunja,Boyacá,Colombia
+13,4.586165,-74.131812,Cra. 33 #48 Sur-1 a 48 Sur-55,Bogotá,Bogotá,Colombia
+14,4.622524,-74.106378,Cl. 6 #45-51,Bogotá,Bogotá,Colombia
+15,5.543465,-73.363257,Cl. 29 #15-52,Tunja,Boyacá,Colombia
+16,5.545013,-73.348607,Av Universitaria #97,Tunja,Boyacá,Colombia
+17,5.550028,-73.354248,Cra. 6 #39-63,Tunja,Boyacá,Colombia
+18,5.813176,-73.029385,Cra. 31B #1679,Duitama,Boyacá,Colombia
+19,4.582593,-74.21998,Cra. 8 #12-41,Soacha,Cundinamarca,Colombia
+20,5.811204,-73.020746,Cl. 20 #40-33,Duitama,Boyacá,Colombia
+21,5.57068,-73.340667,Cl. 66b #2-18,Tunja,Boyacá,Colombia
+22,5.823334,-73.04401,Cra. 12 #1-33,Duitama,Boyacá,Colombia
+23,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+24,5.813323,-73.017256,36,Duitama,Boyacá,Colombia
+25,5.840433,-73.033798,Cra. 3 #18-67,Duitama,Boyacá,Colombia
+26,5.812922,-73.023549,Cra 40 A #182,Duitama,Boyacá,Colombia
+27,5.530998,-73.368998,Dg. 16b #15-55,Tunja,Boyacá,Colombia
+28,5.530721,-73.361699,Cl. 18 #9-15,Tunja,Boyacá,Colombia
+29,5.550893,-73.353959,Cra 7 #37d40,Tunja,Boyacá,Colombia
+30,5.829487,-73.023244,Cra. 18 #18111,Duitama,Boyacá,Colombia
+31,5.545049,-73.348681,Av Universitaria #97,Tunja,Boyacá,Colombia
+32,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+33,5.814363,-73.0304,Cl. 9c #32 - 30,Duitama,Boyacá,Colombia
+34,5.563429,-73.337129,Autopista Norte #209-51,Tunja,Boyacá,Colombia
+35,5.571705,-73.334301,Carrera 2 E No 75-84,Tunja,Boyacá,Colombia
+36,5.541906,-73.361764,Cl. 28 A #12-37,Tunja,Boyacá,Colombia
+37,5.563248,-73.337189,Autopista Norte #209-51,Tunja,Boyacá,Colombia
+38,5.530683,-73.306085,GMJV+7H,Soracá,Boyaca,Colombia
+39,5.523149,-73.353853,Plot no 15 A 16 and 17 N Extension Block D K Road Mohan,Tunja,Boyacá,Colombia
+40,4.795705,-74.048533,Cra. 51 #218-85,Bogotá,Bogotá,Colombia
+41,5.568811,-73.339869,Cl. 66 #1e42,Tunja,Boyacá,Colombia
+42,5.563104,-73.337072,Autopista Norte #209-51,Tunja,Boyacá,Colombia
+43,5.547059,-73.364406,Tv. 16e #32a-72,Tunja,Boyacá,Colombia
+44,5.835843,-73.027525,RXPC+8X Duitama,RXPC+8X Duitama,Boyaca,Colombia
+45,5.561139,-73.346497,"5°33'42.0""N 73°20'49 Transversal 1",Tunja,Boyacá,Colombia
+46,5.826443,-73.038862,Dg. 11a #13-1,Duitama,Boyacá,Colombia
+47,8.550862,-72.934534,H328+85 El Tarra,H328+85 El Tarra,Norte de Santander,Colombia
+48,4.586202,-74.13186,Cra. 33 #48 Sur-1 a 48 Sur-55,Bogotá,Bogotá,Colombia
+49,5.546523,-73.349597,Av Universitaria #42a-100,Tunja,Boyacá,Colombia
+50,5.832624,-73.025512,Cl. 27 #1784,Duitama,Boyacá,Colombia
+51,5.521476,-73.360129,Cl. 10 #4-57,Tunja,Boyacá,Colombia
+52,5.832257,-73.039733,Cra. 8 #12-02,Duitama,Boyacá,Colombia
+53,4.830601,-75.672461,Dg. 25f #22-1,Dosquebradas,Risaralda,Colombia
+54,5.544368,-73.358883,Cl. 31 #70 # 10,Tunja,Boyacá,Colombia
+55,5.547572,-73.364411,Tv. 16e #32a-72,Tunja,Boyacá,Colombia
+56,5.833351,-73.028135,Vaticano,Duitama,Boyacá,Colombia
+57,5.823228,-73.044141,Cra. 12 #112,Duitama,Boyacá,Colombia
+58,5.833178,-73.034823,Cra. 10 #17A-45,Duitama,Boyacá,Colombia
+59,5.570082,-73.338373,Tv. 2a #67-78,Tunja,Boyacá,Colombia
+60,5.831147,-73.039855,Cra. 8a #12-61 a 12-1,Duitama,Boyacá,Colombia
+61,5.56784,-73.336001,Cra. 2ª Este #58832,Tunja,Boyacá,Colombia
+62,5.561406,-73.346429,"5°33'42.0""N 73°20'49 Transversal 1",Tunja,Boyacá,Colombia
+63,5.608874,-73.328901,JM5C+GC Cómbita,JM5C+GC Cómbita,Boyaca,Colombia
+64,5.544336,-73.357718,Av. Maldonado #9-97,Tunja,Boyacá,Colombia
+65,4.636852,-74.067528,Cl. 49 #1442,Bogotá,Bogotá,Colombia
+66,5.545128,-73.360326,Cl. 31 #1126,Tunja,Boyacá,Colombia
+67,5.547193,-73.364364,Tv. 16e #32a-72,Tunja,Boyacá,Colombia
+68,5.533572,-73.367753,Cra. 15 #1992,Tunja,Boyacá,Colombia
+69,5.550156,-73.35414,Cra. 6 #39-63,Tunja,Boyacá,Colombia
+70,5.833042,-73.039901,Cra. 7 #1224,Duitama,Boyacá,Colombia
+71,5.825511,-73.046487,Cl. 3 #8-16,Duitama,Boyacá,Colombia
+72,5.823696,-73.037109,Cra. 18 #9-82,Duitama,Boyacá,Colombia
+73,5.532365,-73.364507,Cra. 12 #18-65,Tunja,Boyacá,Colombia
+74,5.525445,-73.369238,Cra. 15 #11-03,Tunja,Boyacá,Colombia
+75,5.521275,-73.360214,Cl. 10 #4-57,Tunja,Boyacá,Colombia
+76,5.531089,-73.361714,Cl. 18 #9-44,Tunja,Boyacá,Colombia
+77,8.550862,-72.934534,H328+85 El Tarra,H328+85 El Tarra,Norte de Santander,Colombia
+78,5.82786,-73.037707,Cl. 12 #13-02,Duitama,Boyacá,Colombia
+79,8.550893,-72.934434,H328+96 El Tarra,H328+96 El Tarra,Norte de Santander,Colombia
+80,5.83059,-73.033857,Cl. 17 #13-91,Duitama,Boyacá,Colombia
+81,5.820933,-73.023559,Faraon,Duitama,Boyacá,Colombia
+82,5.810681,-73.020662,Cl. 20 #40-33,Duitama,Boyacá,Colombia
+83,5.823648,-73.037115,Cra. 18 #9-82,Duitama,Boyacá,Colombia
+84,5.548949,-73.350847,Cl. 41 #3-34,Tunja,Boyacá,Colombia
+85,5.544549,-73.354454,Cra. 4 #32-96,Tunja,Boyacá,Colombia
+86,40.275621,-3.743242,5,28906 Getafe,Madrid,Spain
+87,5.52631,-73.367724,Cl. 11b #15-38,Tunja,Boyacá,Colombia
+88,5.543866,-73.357374,Maldonado,Tunja,Boyacá,Colombia
+89,5.542414,-73.358448,Maldonado,Tunja,Boyacá,Colombia
+90,5.544438,-73.358855,Cl. 31 #70 # 10,Tunja,Boyacá,Colombia
+91,5.542574,-73.351261,Cra. 1 B #32-34,Tunja,Boyacá,Colombia
+92,5.547187,-73.3644,Tv. 16e #32a-72,Tunja,Boyacá,Colombia
+93,5.837503,-73.016953,Via a San Luis #3535,Duitama,Boyacá,Colombia
+94,5.834894,-73.037994,Cra. 7b #15a2,Duitama,Boyacá,Colombia
+95,5.813776,-73.017317,36,Duitama,Boyacá,Colombia
+96,5.811358,-73.020871,Cl. 21 #40-40,Duitama,Boyacá,Colombia
+97,5.533561,-73.36771,Cra. 15 #18-85,Tunja,Boyacá,Colombia
+98,5.533583,-73.367855,Cra. 15 #1992,Tunja,Boyacá,Colombia
+99,5.543834,-73.351232,Av. Olímpica #1a74,Tunja,Boyacá,Colombia
+100,5.533369,-73.36786,Cra. 15 #1992,Tunja,Boyacá,Colombia
+101,6.170993,-75.588861,Zona 8,Envigado,Antioquia,Colombia
+102,5.544219,-73.358766,Cl. 31 #70 # 10,Tunja,Boyacá,Colombia
+103,4.789333,-74.044606,Cl. 209 #45-80,Suba,Bogotá,Colombia
+104,5.832951,-73.034636,Cra. 10 #17A-45,Duitama,Boyacá,Colombia
+105,5.54471,-73.358862,Cl. 31 #70 # 10,Tunja,Boyacá,Colombia
+106,5.832428,-73.039842,Cra. 8 #79,Duitama,Boyacá,Colombia
+107,5.5688,-73.341385,Tv. 2 # 64 - 85,Tunja,Boyacá,Colombia
+108,5.840411,-73.033813,Cra. 3 #18-67,Duitama,Boyacá,Colombia
+109,5.542638,-73.351476,Cra. 1ª A Este #32-26,Tunja,Boyacá,Colombia
+110,5.823259,-73.043891,Cra. 12 #1-33,Duitama,Boyacá,Colombia
+111,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+112,5.545783,-73.34883,Av Universitaria #21,Tunja,Boyacá,Colombia
+113,5.533326,-73.367808,Cra. 15 #1877,Tunja,Boyacá,Colombia
+114,5.809592,-73.025662,Cra. 38a #14 - 27,Duitama,Boyacá,Colombia
+115,4.647597,-74.050473,Cra. 2 Este #70-20,Bogotá,Bogotá,Colombia
+116,5.57147,-73.333927,Av Universitaria,Tunja,Boyacá,Colombia
+117,5.829407,-73.022982,Cra. 18 #18111,Duitama,Boyacá,Colombia
+118,5.551171,-73.354109,Cra 7 #37d40,Tunja,Boyacá,Colombia
+119,5.813691,-73.017276,36,Duitama,Boyacá,Colombia
+120,5.811033,-73.020746,Cl. 20 #40-33,Duitama,Boyacá,Colombia
+121,5.828146,-73.030763,Cl. 19 #16-78,Duitama,Boyacá,Colombia
+122,5.529885,-73.368936,Dg. 16 #15-17,Tunja,Boyacá,Colombia
+123,5.832837,-73.032324,CC IN NOVA PLAZA LC 141 - CL 18 # 12 - 53 Barrio Solano,Duitama,Boyacá,Colombia
+124,5.83314,-73.031884,Cl. 20a #12-14,Duitama,Boyacá,Colombia
+125,5.533348,-73.367777,Cra. 15 #1877,Tunja,Boyacá,Colombia
+126,5.832791,-73.035114,Cl. 17 #928,Duitama,Boyacá,Colombia
+127,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+128,5.832791,-73.035114,Cl. 17 #928,Duitama,Boyacá,Colombia
+129,5.824249,-73.044426,Cra 11 #13-82,Duitama,Boyacá,Colombia
+130,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+131,5.829123,-73.034186,Centro-Sur,Duitama,Boyacá,Colombia
+132,5.821565,-73.042962,Cra. 17 #1-95,Duitama,Boyacá,Colombia
+133,5.834047,-73.036509,Cra. 8 #1615,Duitama,Boyacá,Colombia
+134,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+135,5.82774,-73.034692,Centro-Sur,Duitama,Boyacá,Colombia
+136,8.550862,-72.934534,H328+85 El Tarra,H328+85 El Tarra,Norte de Santander,Colombia
+137,4.5781,-74.216581,Cl. 13 #2a-35,Soacha,Cundinamarca,Colombia
+138,5.822523,-73.023206,Cl. 23 #2721,Duitama,Boyacá,Colombia
+139,4.582737,-74.220099,Cra. 8 #12-29,Soacha,Cundinamarca,Colombia
+140,5.524703,-73.369792,Cl. 9a #15-52,Tunja,Boyacá,Colombia
+141,5.570557,-73.340762,Cl. 66a #224,Tunja,Boyacá,Colombia
+142,5.544261,-73.358735,Cl. 31 #70 # 10,Tunja,Boyacá,Colombia
+143,5.834129,-73.031852,Cl. 20a #10-122,Duitama,Boyacá,Colombia
+144,5.529877,-73.35201,Cl. 18 #1-33,Tunja,Boyacá,Colombia
+145,5.827671,-73.034744,Centro-Sur,Duitama,Boyacá,Colombia
+146,5.832791,-73.035114,Cl. 17 #928,Duitama,Boyacá,Colombia
+147,5.829052,-73.029127,Cl. 20 #1627,Duitama,Boyacá,Colombia
+148,4.791814,-74.047438,Cra. 51 #214-55,Bogotá,Bogotá,Colombia
+149,5.543813,-73.351194,Av. Olímpica #1a74,Tunja,Boyacá,Colombia
+150,5.52103,-73.360032,Cra. 4a #8-34,Tunja,Boyacá,Colombia
+151,5.835929,-73.027861,RXPC+9V Duitama,RXPC+9V Duitama,Boyaca,Colombia
+152,5.832852,-73.032389,CC IN NOVA PLAZA LC 141 - CL 18 # 12 - 5 Barrio Solano,Duitama,Boyacá,Colombia
+153,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+154,5.829312,-73.034481,Centro-Sur,Duitama,Boyacá,Colombia
+155,5.820933,-73.023559,Faraon,Duitama,Boyacá,Colombia
+156,5.835774,-73.0277,RXPC+8W Duitama,RXPC+8W Duitama,Boyaca,Colombia
+157,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+158,5.840745,-73.033889,Cra. 3 #18-67,Duitama,Boyacá,Colombia
+159,5.82564,-73.046508,Cl. 3 #8-16,Duitama,Boyacá,Colombia
+160,5.529907,-73.368944,Dg. 16 #15-17,Tunja,Boyacá,Colombia
+161,5.563237,-73.337134,Autopista Norte #209-51,Tunja,Boyacá,Colombia
+162,5.525587,-73.369321,Cra. 15 #11-03,Tunja,Boyacá,Colombia
+163,5.531153,-73.361771,Cl. 18 #9-44,Tunja,Boyacá,Colombia
+164,8.550893,-72.934377,H328+96 El Tarra,H328+96 El Tarra,Norte de Santander,Colombia
+165,5.561417,-73.346607,"5°33'42.0""N 73°20'49 Transversal 1",Tunja,Boyacá,Colombia
+166,5.524367,-73.364884,Cl. 11 #10-89 a 10-1,Tunja,Boyacá,Colombia
+167,5.54455,-73.358936,Cl. 31 #70 # 10,Tunja,Boyacá,Colombia
+168,5.57123,-73.340605,Tv. 3 #67-14,Tunja,Boyacá,Colombia
+169,5.539499,-73.355246,55,Tunja,Boyacá,Colombia
+170,5.832791,-73.035114,Cl. 17 #928,Duitama,Boyacá,Colombia
+171,5.826259,-73.046557,Cl. 3a #7-54,Duitama,Boyacá,Colombia
+172,5.568753,-73.340464,Tv. 2 #642,Tunja,Boyacá,Colombia
+173,5.571529,-73.334673,Cra. 2b #73,Tunja,Boyacá,Colombia
+174,5.55022,-73.354183,Cra 7 #37d40,Tunja,Boyacá,Colombia
+175,5.835849,-73.027925,Vía San Luis,Duitama,Boyacá,Colombia
+176,5.833218,-73.034843,Cra. 10 #17A-45,Duitama,Boyacá,Colombia
+177,5.826622,-73.028451,CARRERA 19 A N 20-46,Duitama,Boyacá,Colombia
+178,5.53055,-73.361586,Cra. 9 #17-81,Tunja,Boyacá,Colombia
+179,4.581651,-74.215882,Cra. 6 #16-40,Soacha,Cundinamarca,Colombia
+180,5.53959,-73.355166,55,Tunja,Boyacá,Colombia
+181,5.533369,-73.367839,Cra. 15 #1992,Tunja,Boyacá,Colombia
+182,5.834129,-73.031852,Cl. 20a #10-122,Duitama,Boyacá,Colombia
+183,5.822054,-73.037548,Cra. 19 #8-35,Duitama,Boyacá,Colombia
+184,4.581616,-74.215827,Cra. 6 #16-44,Soacha,Cundinamarca,Colombia
+185,5.835838,-73.027893,Vía San Luis,Duitama,Boyacá,Colombia
+186,5.809998,-73.024589,Cra. 38a #14-23,Duitama,Boyacá,Colombia
+187,5.811183,-73.020383,Cl. 20 #40-33,Duitama,Boyacá,Colombia
+188,5.813323,-73.017256,36,Duitama,Boyacá,Colombia
+189,5.834129,-73.031852,Cl. 20a #10-122,Duitama,Boyacá,Colombia
+190,5.829354,-73.034433,Centro-Sur,Duitama,Boyacá,Colombia
+191,5.836142,-73.027689,RXPC+FW Duitama,RXPC+FW Duitama,Boyaca,Colombia
+192,5.546468,-73.349604,Av Universitaria #42a-100,Tunja,Boyacá,Colombia
+193,5.561246,-73.346551,"5°33'42.0""N 73°20'49 Transversal 1",Tunja,Boyacá,Colombia
+194,5.568758,-73.340669,Tv. 2a #64-32, Tunja,Boyacá,Colombia
+195,5.822822,-73.044174,Cra. 12 #112,Duitama,Boyacá,Colombia
+196,5.812586,-73.02503,Cl. 15 #35-61,Duitama,Boyacá,Colombia
+197,5.830059,-73.023276,Cl. 26 #17-11,Duitama,Boyacá,Colombia
+198,5.829829,-73.030919,Cra. 16 #19-98,Duitama,Boyacá,Colombia
+199,8.471433,-73.878544,F4CC+HH Morales,F4CC+HH Morales,Bolivar,Colombia
+200,5.834129,-73.031852,Cl. 20a #10-122,Duitama,Boyacá,Colombia
+201,4.789162,-74.044423,Cl. 209 #45-80,Suba,Bogotá,Colombia
+202,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+203,4.647209,-74.050356,Cra. 2 Este #70-20,Bogotá,Bogotá,Colombia
+204,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+205,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+206,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+207,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+208,7.13152,-73.123147,Cl. 17 #2312,Bucaramanga,Santander,Colombia
+209,4.581629,-74.215849,Cra. 6 #16-44,Soacha,Cundinamarca,Colombia
+210,4.604281,-74.09533,,Cl. 6 #262,Bogotá,Colombia
+211,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+212,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+213,4.581626,-74.215857,Cra. 6 #16-44,Soacha,Cundinamarca,Colombia
+214,5.813323,-73.017256,36,Duitama,Boyacá,Colombia
+215,4.54468,-74.276111,GPVF+VH Soacha,GPVF+VH Soacha,Cundinamarca,Colombia
+216,4.789205,-74.044457,Cl. 209 #45-80,Suba,Bogotá,Colombia
+217,5.840283,-73.03399,Cra. 3 #18-67,Duitama,Boyacá,Colombia
+218,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+219,4.579788,-74.216545,Cl 15 #3a18,Soacha,Cundinamarca,Colombia
+220,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+221,4.699749,-74.072176,Av. Pepe Sierra #70C - 04,Bogotá,Bogotá,Colombia
+222,5.827725,-73.034695,Centro-Sur,Duitama,Boyacá,Colombia
+223,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+224,5.570925,-73.335717,Cl. 73 #2B-04,Tunja,Boyacá,Colombia
+225,5.547155,-73.364176,Tv. 16c #32-25,Tunja,Boyacá,Colombia
+226,5.543466,-73.351159,Av. Olímpica #1a74,Tunja,Boyacá,Colombia
+227,4.586183,-74.131828,Cra. 33 #48 Sur-1 a 48 Sur-55,Bogotá,Bogotá,Colombia
+228,4.586262,-74.131777,Cra. 33 #48 Sur-1 a 48 Sur-55,Bogotá,Bogotá,Colombia
+229,5.546255,-73.349375,Av Universitaria # 39-77,Tunja,Boyacá,Colombia
+230,4.586196,-74.131892,Cra. 33 #48 Sur-1 a 48 Sur-55,Bogotá,Bogotá,Colombia
+231,5.54194,-73.363102,Cra. 14a #27-32,Tunja,Boyacá,Colombia
+232,5.552292,-73.357093,Cra. 10 #41-1,Tunja,Boyacá,Colombia
+233,5.530362,-73.368793,Cra. 15 #16b2,Tunja,Boyacá,Colombia
+234,5.547743,-73.364397,Cl. 34B #1604,Tunja,Boyacá,Colombia
+235,5.815844,-73.030527,Cl. 12 #30-16,Duitama,Boyacá,Colombia
+236,5.53118,-73.36173,Cl. 18 #9-44,Tunja,Boyacá,Colombia
+237,4.636826,-74.067508,Cl. 49 #1442,Bogotá,Bogotá,Colombia
+238,4.578346,-74.135729,11001,Bogotá,Bogotá,Colombia
+239,5.53354,-73.367963,Cra. 15 #1992,Tunja,Boyacá,Colombia
+240,5.550562,-73.354119,Cra 7 #37d40,Tunja,Boyacá,Colombia
+241,5.539675,-73.355239,55,Tunja,Boyacá,Colombia
+242,5.561054,-73.346571,"5°33'42.0""N 73°20'49 Transversal 1",Tunja,Boyacá,Colombia
+243,4.586225,-74.131792,Cra. 33 #48 Sur-1 a 48 Sur-55,Bogotá,Bogotá,Colombia
+244,5.533287,-73.358034,Cl. 21 #6 35,Tunja,Boyacá,Colombia
+245,8.551907,-72.93681,H327+Q7 El Tarra,H327+Q7 El Tarra,Norte de Santander,Colombia
+246,8.550894,-72.934401,H328+96 El Tarra,H328+96 El Tarra,Norte de Santander,Colombia
+247,5.542553,-73.351344,Cra. 1c #32 13 OFICINA 302,Tunja,Boyacá,Colombia
+248,5.533391,-73.367775,Cra. 15 #1877,Tunja,Boyacá,Colombia
+249,5.571748,-73.334133,Carrera 2 E No 75-84,Tunja,Boyacá,Colombia
+250,5.524292,-73.433802,GHF8+PF Cucaita,GHF8+PF Cucaita,Boyaca,Colombia
+251,5.539734,-73.355398,55,Tunja,Boyacá,Colombia
+252,5.520981,-73.360137,Cra. 4a #8-34,Tunja,Boyacá,Colombia
+253,5.571572,-73.334703,Cra. 2b #73,Tunja,Boyacá,Colombia
+254,4.578102,-74.216414,Cl. 13 #2a-35,Soacha,Cundinamarca,Colombia
+255,5.551069,-73.354251,Cra 7 #37d40,Tunja,Boyacá,Colombia
+256,5.560829,-73.346638,Cra. 4 #5A -67 piso 2,Tunja,Boyacá,Colombia
+257,5.537299,-73.35888,Cl. 25 #8-24,Tunja,Boyacá,Colombia
+258,10.989128,-74.802731,El Recreo,Barranquilla,Atlántico,Colombia
+259,5.812501,-73.025161,Cl. 15 #35-61,Duitama,Boyacá,Colombia
+260,5.537555,-73.358821,Cl. 25 #8-24,Tunja,Boyacá,Colombia
+261,4.578346;-74.135729,11001,Bogotá,Bogotá,Colombia
+262,4.577456,-74.21484,Cl 15 #80,Soacha,Cundinamarca,Colombia
+263,4.581851,-74.225481,Cl. 1 #6a-54,Soacha,Cundinamarca,Colombia
+264,4.581579,-74.215813,Cra. 5A #16-55, Soacha,Cundinamarca,Colombia
+265,6.143172,-75.621343,Cl. 78 Sur #40-180,Sabaneta,Antioquia,Colombia
+266,4.594595,-74.184342,Cl 59 #3-12,Soacha,Cundinamarca,Colombia
+267,6.144943,-75.622072,Cra. 45A #80 Sur-75,Sabaneta,Antioquia,Colombia
+268,10.972448,-74.796724,Cra. 27 #31, Suroccidente,Barranquilla,Atlántico,Colombia
+269,4.581552,-74.215766,Cra. 5A #16-55,Soacha,Cundinamarca,Colombia
